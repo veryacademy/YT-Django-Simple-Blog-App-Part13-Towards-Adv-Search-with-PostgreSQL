@@ -52,7 +52,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'simpleblog',
         'USER': 'postgres',
-        'PASSWORD': 'Aa610153+',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '',
     }
